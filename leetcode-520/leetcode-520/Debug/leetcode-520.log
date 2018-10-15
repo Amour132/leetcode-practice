@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/10/15 17:23:00。
+     1>项目“E:\tesec\leetcode-p\leetcode-520\leetcode-520\leetcode-520.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\tesec\leetcode-p\leetcode-520\leetcode-520\main.cpp(7): error C2061: 语法错误: 标识符“string”
+     1>e:\tesec\leetcode-p\leetcode-520\leetcode-520\main.cpp(11): error C2065: “word”: 未声明的标识符
+     1>e:\tesec\leetcode-p\leetcode-520\leetcode-520\main.cpp(11): error C2228: “.size”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>e:\tesec\leetcode-p\leetcode-520\leetcode-520\main.cpp(13): error C2065: “word”: 未声明的标识符
+     1>e:\tesec\leetcode-p\leetcode-520\leetcode-520\main.cpp(18): error C2065: “word”: 未声明的标识符
+     1>e:\tesec\leetcode-p\leetcode-520\leetcode-520\main.cpp(18): error C2228: “.size”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>e:\tesec\leetcode-p\leetcode-520\leetcode-520\main.cpp(19): error C2065: “word”: 未声明的标识符
+     1>已完成生成项目“E:\tesec\leetcode-p\leetcode-520\leetcode-520\leetcode-520.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.89
